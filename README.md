@@ -1,3 +1,10 @@
+# It is a very simple project . 
+
+- Front End - HTML ,CSS( Bootstrap Framework ) , Java Script (JQuery Library)
+- Back End - JAVA
+- Software Used - STS4
+- Database - MySQL
+
 
 # Home Screen 
 
